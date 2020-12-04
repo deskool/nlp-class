@@ -7,7 +7,7 @@
   - c. [Overview of Course Tools](https://youtu.be/xGNys9rDEsQ)
   - d. [Overview of the Course Project](https://youtu.be/Jmdo5YjPIOo)
 - **HW0:** [Setting up your notebook and Gitlab Repo](homework/HW0/Instructions.md)
-- **Project 1/4:** [Data Collection, Write Introduction](project/Instructions.md)
+- **Project:** [Guidelines](project/Instructions.md)
 
 
 ### NLP Fundamentals and N-gram Language Models
