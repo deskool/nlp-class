@@ -5,9 +5,6 @@ The course project is your opportunitiy to independently demonstrate your master
 
 
 ## Part 1:  Data Collection, Write Introduction
-
-##### Due 9/27
-
 In the first part of the project, you will develop an NLP related research question you would like to answer, and collect a natural langugage dataset of some kind that will help you answer that question. By the end of part 1, you should have:
 
 1. A well articulated research problem
@@ -24,9 +21,6 @@ In the first part of the project, you will develop an NLP related research quest
 5. Introduce your solution(s). Say specifically how it advances, solves the problems of, or has advantages over, the current approaches. Convince them this what they're about to read is a good idea.
 
 ## Part 2: Model Development, Write Methods
-
-##### Due 10/25
-
 In the second part of the project, you will apply a method to answer the research question you posed in the first part of the project. By the end of part 2, you should have:
 
 1. A data pre-processing pipeline
@@ -44,9 +38,6 @@ In the second part of the project, you will apply a method to answer the researc
 6. Describe your validation approach: How big was your training/dev/test set? Did you do cross validation; how many folds? 
 
 ## Part 3: Comparing against baselines, Write Results
-
-##### Due 11/22
-
 In the third part of the project, you will compare your method against an alternative approach and discuss the pros and cons of your approach compared to the baseline. By the end of part 3, you should have:
 
 1. One or more figures/tables that illustrate your method's results on an experiment.
@@ -61,9 +52,6 @@ In the third part of the project, you will compare your method against an altern
 4. Illustrative example: Show your model working on a flattering example from the data, or doing something cool to show off your work. 
 
 ## Part 4: Combine, Polish and Write Discussion
-
-##### Due 12/18
-
 In the fourth part of the project, you  generate visualizations that illustrate the pros and cons of your approach, and discuss future directions of your work. By the end of part 4, you should have:
 
 1. A completed draft of your final report, including a discussion section
