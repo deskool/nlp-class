@@ -1,9 +1,4 @@
-# CSE 842 Course Materials
-
-## Useful Links:
-
-- [Access the Course syllabus here](syllabus/Syllabus.pdf?inline=false)
-- [Project requirements found here](project/Instructions.md) 
+# Natural Langauge Processing
 
 ### About this course
 - <u>Lectures:</u> 
