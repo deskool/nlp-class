@@ -1,5 +1,8 @@
 # Natural Langauge Processing
 
+Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
+
+
 ### About this course
 - <u>Lectures:</u> 
   - a. [Introduction to the Course](https://youtu.be/-4OsuTi8OkE) 
