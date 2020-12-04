@@ -1,0 +1,7 @@
+jupyterlab
+requests
+matplotlib
+nltk
+textdistance
+textdistance[extras]
+numpy
