@@ -1,9 +1,19 @@
 # Natural Langauge Processing
 
-Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
-
 
 ### About this course
+This course was created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz) in Fall of 2020 as part of the CSE 842 class at Michigan State University. The course provides a step-by-step guide to NLP and makes no assumptions that you have a background in the material (NLP or Machine Learning). The content in this repository will teach you:
+
+1. How to collect and process text data.
+2. How to generate text using language models.
+3. How to classify text using machine learning.
+4. How to use and tune state-of-the-art sequence-to-sequence models, including transformers.
+5. How to process speech signals.
+
+All lectures are hosted on Youtube and can be consumed at your own pace (see links below). At the end of (most) every lecture there is a tutorial + homework assignment that will demonstrate how to perform NLP tasks in Python. The Python Notebooks are available through the links below, and in the `Homework` folder.
+
+
+### Introduction
 - <u>Lectures:</u> 
   - a. [Introduction to the Course](https://youtu.be/-4OsuTi8OkE) 
   - b. [Overview of Syllabus](https://youtu.be/92gDHHGmJeo) 
@@ -25,7 +35,7 @@ Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
   - e. [N-gram Language Models](https://youtu.be/P3d7D78Cj1E) 
   - f. [Generalization and Smoothing](https://youtu.be/vpJ_Iw63cFU)
   - [HW1 Tutorial](https://youtu.be/JdtuvnOhCZM)
-- **HW1:** [Basic data manipulations, representations and statistics](homework/HW1/assignment.ipynb)
+- **HW1 and Code Tutorial:** [Basic data manipulations, representations and statistics](homework/HW1/assignment.ipynb)
 
 
 ### Niave Bayes, Sentiment Classification, Logistic Regression
@@ -39,7 +49,7 @@ Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
   - c. [Logistic Regression](https://youtu.be/TbjUaZLhJVc)
   - d. [Performance Metrics](https://youtu.be/wfJk_9xRGNc)
   - [HW2 Tutorial](https://youtu.be/xVf1vcIeqVI)
-- **HW2:** [Supervised language classification models and their assessment](homework/HW2/assignment.ipynb)
+- **HW2 and Code Tutorial:** [Supervised language classification models and their assessment](homework/HW2/assignment.ipynb)
 
 
 ### Vector Semantics, Embeddings, Neural Language Models
@@ -55,7 +65,7 @@ Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
   - c. [Neural Networks](https://youtu.be/9EjCkNLJvs4)
   - d. [Neural Langauge Models](https://youtu.be/y4zDz3MwrEw)
   - [HW3 Tutorial](https://youtu.be/JLX-2X7gb8o)
-- **HW3:** [Embeddings and Neural Networks](homework/HW3)
+- **HW3 and Code Tutorial:** [Embeddings and Neural Networks](homework/HW3)
 
 
 ### Modeling Text as a Sequence
@@ -68,7 +78,7 @@ Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
   - b. [Maximum Entropy Markov Models](https://youtu.be/FtXRkzLKnpQ)
   - c. [Recurrent Neural Networks](https://youtu.be/RMLW-BKy-lk)
   - [HW4 Tutorial](https://youtu.be/-jP8vuzsid4)
-- **HW4:**  [Sequence Models](homework/HW4)
+- **HW4 and Code Tutorial:**  [Sequence Models](homework/HW4)
   
 
 ### Encoder-Decoder Models, Attention and Transformers
@@ -81,7 +91,7 @@ Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
   - b. [Attention](https://youtu.be/DZgHT1jsjeE)
   - c. [Transformers](https://youtu.be/GyC1lVT3Urw)
   - [HW5 Tutorial](https://youtu.be/WD14dradNrY)
-- **HW5:** [Transformers](homework/HW5)
+- **HW5 and Code Tutorial:** [Transformers](homework/HW5)
    
    
 ### Constituencies, Parsing and Dependency
@@ -94,7 +104,7 @@ Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
   - b. [Constituency Parsing](https://youtu.be/_OpOoiySZRA)
   - c. [Statistical Consituency Parsing](https://youtu.be/avmq_oVGOOM)
   - d. [Dependency Parsing](https://youtu.be/2jLk93iIyrw)
-- **HW6:** [Context free grammar](homework/HW6)
+- **HW6 and Code Tutorial:** [Context free grammar](homework/HW6)
 
 
 ### Speech Processing
@@ -106,4 +116,4 @@ Course Created by [Prof. Mohammad Ghassemi](https://ghassemi.xyz).
   - a. [Phonetics](https://youtu.be/y8kEwd2DJNw)
   - b. [Speech Signals](https://youtu.be/RPHRxRS_wbY)
   - [HW7 Tutorial](https://youtu.be/29P7q84xGls)
-- **HW7:** [Speech Analysis](homework/HW7)
+- **HW7 and Code Tutorial:** [Speech Analysis](homework/HW7)
