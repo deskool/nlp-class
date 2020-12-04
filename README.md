@@ -1,4 +1,4 @@
-# Natural Language Processing
+# A Hands-on Introduction to Natural Language Processing (NLP)
 
 
 ### About this course
