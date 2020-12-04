@@ -5,10 +5,7 @@
 - [Access the Course syllabus here](syllabus/Syllabus.pdf?inline=false)
 - [Project requirements found here](project/Instructions.md) 
 
-## Course Calendar
-
-**About this course**
-
+### About this course
 - <u>Lectures:</u> 
   - a. [Introduction to the Course](https://youtu.be/-4OsuTi8OkE) 
   - b. [Overview of Syllabus](https://youtu.be/92gDHHGmJeo) 
@@ -17,13 +14,8 @@
 - **HW0:** [Setting up your notebook and Gitlab Repo](homework/HW0/Instructions.md)
 - **Project 1/4:** [Data Collection, Write Introduction](project/Instructions.md)
 
-<hr>
-<br>
 
-**NLP Fundamentals and N-gram Language Models**
-
-<br>
-
+### NLP Fundamentals and N-gram Language Models
 - <u>Optional Readings</u>:
   - [Chapter 2](https://web.stanford.edu/~jurafsky/slp3/2.pdf) and [Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 - <u>Lecture:</u> 
@@ -37,13 +29,8 @@
   - [HW1 Tutorial](https://youtu.be/JdtuvnOhCZM)
 - **HW1:** [Basic data manipulations, representations and statistics](homework/HW1/assignment.ipynb)
 
-<hr>
-<br>
 
-**Niave Bayes, Sentiment Classification, Logistic Regression**
-
-<br>
-
+### Niave Bayes, Sentiment Classification, Logistic Regression
 - <u>Optional Readings</u>:
   - [Chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf) and [Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 - <u>Lecture:</u> 
@@ -57,13 +44,7 @@
 - **HW2:** [Supervised language classification models and their assessment](homework/HW2/assignment.ipynb)
 
 
-<hr>
-<br>
-
-**Vector Semantics, Embeddings, Neural Language Models**
-
-<br>
-
+### Vector Semantics, Embeddings, Neural Language Models
 - <u>Optional Readings</u>
   - [Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) and [Chapter 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
   - [PCA](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
@@ -78,15 +59,8 @@
   - [HW3 Tutorial](https://youtu.be/JLX-2X7gb8o)
 - **HW3:** [Embeddings and Neural Networks](homework/HW3)
 
-<hr>
-<br>
 
-<br>
-
-**Modeling Text as a Sequence** 
-
-<br>
-
+### Modeling Text as a Sequence
 - <u>Optional Readings</u>
   - [Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf) and [Chapter 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 - <u>Lecture:</u>  
@@ -99,13 +73,7 @@
 - **HW4:**  [Sequence Models](homework/HW4)
   
 
-<hr>
-<br>
-
-**Encoder-Decoder Models, Attention and Transformers**
-
-<br>
-
+### Encoder-Decoder Models, Attention and Transformers
 - <u>Optional Readings</u>
   - [Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [Viswani, 2017](https://arxiv.org/pdf/1706.03762.pdf)
 - <u>Lecture</u>: 
@@ -117,11 +85,8 @@
   - [HW5 Tutorial](https://youtu.be/WD14dradNrY)
 - **HW5:** [Transformers](homework/HW5)
    
-
-<hr>
-<br>
-
-**Constituencies, Parsing and Dependency**
+   
+### Constituencies, Parsing and Dependency
 - <u>Optional Readings</u>
   - [Chapter 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf), [Chapter 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf), [Chapter 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf), [Chapter 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
 - <u>Lecture</u>: 
@@ -133,10 +98,8 @@
   - d. [Dependency Parsing](https://youtu.be/2jLk93iIyrw)
 - **HW6:** [Context free grammar](homework/HW6)
 
-<hr>
-<br>
 
-**Speech Processing**
+### Speech Processing
 - <u>Optional Readings</u>
   - [Chapter 27](https://web.stanford.edu/~jurafsky/slp3/27.pdf)
 - <u>Lecture</u>: 
@@ -146,6 +109,3 @@
   - b. [Speech Signals](https://youtu.be/RPHRxRS_wbY)
   - [HW7 Tutorial](https://youtu.be/29P7q84xGls)
 - **HW7:** [Speech Analysis](homework/HW7)
-
-<hr>
-<br>
