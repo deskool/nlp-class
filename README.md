@@ -98,7 +98,7 @@ All lectures are hosted on Youtube and can be consumed at your own pace (see lin
 - <u>Optional Readings</u>
   - [Chapter 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf), [Chapter 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf), [Chapter 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf), [Chapter 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
 - <u>Lecture</u>: 
-  - [Oerview](https://youtu.be/pXTrY2GPMn0)
+  - [Overview](https://youtu.be/pXTrY2GPMn0)
   - [Introduction](https://youtu.be/El4r91dgCTQ)
   - a. [Context Free Grammar](https://youtu.be/kq4aUYzLlb0)
   - b. [Constituency Parsing](https://youtu.be/_OpOoiySZRA)
@@ -111,7 +111,7 @@ All lectures are hosted on Youtube and can be consumed at your own pace (see lin
 - <u>Optional Readings</u>
   - [Chapter 27](https://web.stanford.edu/~jurafsky/slp3/27.pdf)
 - <u>Lecture</u>: 
-  - [Oerview](https://youtu.be/yZ-3fF9ECGk)
+  - [Overview](https://youtu.be/yZ-3fF9ECGk)
   - [Introduction](https://youtu.be/6L1XBid5aws)
   - a. [Phonetics](https://youtu.be/y8kEwd2DJNw)
   - b. [Speech Signals](https://youtu.be/RPHRxRS_wbY)
