@@ -28,7 +28,7 @@ All lectures are hosted on Youtube and can be consumed at your own pace (see lin
   - [Chapter 2](https://web.stanford.edu/~jurafsky/slp3/2.pdf) and [Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 - <u>Lecture:</u> 
   - [Introduction](https://youtu.be/lwzyB0zendM)
-  - a. [Langauge and its properties](https://youtu.be/662hOEPxEVo)
+  - a. [Language and its properties](https://youtu.be/662hOEPxEVo)
   - b. [Regular Expressions](https://youtu.be/Xv51Z73yaYU) 
   - c. [Text Normalization](https://youtu.be/aFUXV7-WUFM) 
   - d. [Edit Distance](https://youtu.be/SNEZ5beES-k) 
